@@ -8,9 +8,9 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gourav221b&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=gourav221b&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gourav221b&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&custom_title=How much of everything?" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=gourav221b&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gourav221b&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -44,10 +44,6 @@
 
 ###
 
-<img align="right" height="150" src="https://devgg.me/images/about.jpg"  />
-
-###
-
 <div align="left">
   <a href="https://www.youtube.com/@gouravghosal8131/featured" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -68,6 +64,14 @@
 
 ###
 
+<img align="right" height="173" src="https://devgg.me/images/about.jpg"  />
+
+###
+
+<p align="left">Hey all, this is Gourav, a web developer and a content creator.<br><br>✅ I work with small businesses to build cost optimized, customized  solutions for workplace utilities.<br><br>✅ I'm an ex-commuity lead and facilitator at GDSC Techno India University.<br><br>✅ Always up for creating and innovating something new.<br><br>✅ Lets build something together<br>📭[slggourav@gmail.com](mailto:slggourav@gmail.com)</p>
+
+###
+
 <br clear="both">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gourav221b/gourav221b/output/snake-dark.svg" alt="Snake animation"  />
@@ -83,4 +87,8 @@
 </div>
 
 ###
+
+###
+
+
 
