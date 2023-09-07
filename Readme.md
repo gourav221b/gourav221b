@@ -68,7 +68,7 @@
 
 ###
 
-<p align="left">Hey all, this is Gourav, a web developer and a content creator.<br><br>✅ I work with small businesses to build cost optimized, customized  solutions for workplace utilities.<br><br>✅ I'm an ex-commuity lead and facilitator at GDSC Techno India University.<br><br>✅ Always up for creating and innovating something new.<br><br>✅ Lets build something together<br>📭[slggourav@gmail.com](mailto:slggourav@gmail.com)</p>
+<p align="left">Hey all, this is Gourav, a web developer and a content creator.<br><br>✅ I work with small businesses to build cost optimized, customized  solutions for workplace utilities.<br><br>✅ I'm an ex-commuity lead and facilitator at GDSC Techno India University.<br><br>✅ Always up for creating and innovating something new.<br><br>✅ Lets build something together<br>📭<a href="mailto:slggourav@gmail.com"> slggourav@gmail.com</a></p>
 
 ###
 
