@@ -70,11 +70,16 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/gourav221b/gourav221b/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="left">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=slggourav&theme=react" alt="Layout with last medium posts"  />
 </div>
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=gourav221b.gourav221b&left_color=chocolate&right_color=dodgerblue&left_text=Profile Visits"  />
 
 ###
