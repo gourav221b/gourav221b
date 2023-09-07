@@ -84,6 +84,3 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=gourav221b.gourav221b&left_color=chocolate&right_color=dodgerblue&left_text=Profile Visits"  />
-
-###
