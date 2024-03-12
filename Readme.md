@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/C5616AQHrlERRZ2VXCg/profile-displaybackgroundimage-shrink_350_1400/0/1658650245870?e=1699488000&v=beta&t=cf-iiAhkZW3i92jNoILIDFWmFmEBs-YyQpvN3rVf4i8"  />
+  <img height="200" src="https://devgg.me/images/about.jpeg"  />
 </div>
 
 ###
@@ -73,12 +73,6 @@
 ###
 
 <br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gourav221b/gourav221b/output/snake-dark.svg" alt="Snake animation"  />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gourav221b/gourav221b/output/snake.svg" alt="Snake animation"  />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gourav221b/gourav221b/output/snake.svg" />
-</picture>
-
 
 ###
 
