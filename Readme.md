@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://devgg.me/images/about.jpeg"  />
+  <img height="200" src="https://res.cloudinary.com/djl46nj0r/image/upload/v1710252645/bBack_and_Yellow_Personal_Trainer_Linkedin_Banner_rhgakl.png"  />
 </div>
 
 ###
@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
