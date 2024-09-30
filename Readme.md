@@ -1,4 +1,4 @@
-<h3 align="left">Hey folks, this is gourav and I'm a web developer & creator!</h3>
+<h3 align="left">Hey folks, this is gourav and I'm a web developer & content creator!</h3>
 
 ###
 
@@ -77,7 +77,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=slggourav&theme=react" alt="Layout with last medium posts"  />
+<!--   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=slggourav&theme=react" alt="Layout with last medium posts"  /> -->
 </div>
 
 ###
